@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  line-height: 1.6;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+header {
+  background-color: #6200ea;
+  color: white;
+  padding: 2rem 0;
+  text-align: center;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 1rem;
+}
+
+h1, h2 {
+  color: #6200ea;
+}
+
+.projects ul {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+}
+
+a {
+  color: #3700b3;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #eee;
+  margin-top: 2rem;
+}
