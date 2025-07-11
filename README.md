@@ -31,6 +31,6 @@ portfolio-website/
 ## 🧑‍💻 Author
 
 **Vaibhavi Boche**  
-Email: vaibhavi@example.com  
-LinkedIn: https://linkedin.com/in/vaibhavi  
-GitHub: https://github.com/vaibhaviboche
+Email: vaibhaviboche@gmail.com 
+LinkedIn: https://www.linkedin.com/in/vaibhavi-boche-ba3633374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+GitHub: https://github.com/vaibhaviboche/portfolio-website
